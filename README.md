@@ -1,6 +1,6 @@
 # drawing-app
 Kotlin based android app for drawing on a blank canvas or any image and saving the drawing.
 
-![Screenshot](screenshot1.png)
-![Screenshot](screenshot2.png)
-![Screenshot](screenshot3.png)
+![Screenshot1](Screenshot_1.png)
+![Screenshot2](Screenshot_2.png)
+![Screenshot3](Screenshot_3.png)
